@@ -1,0 +1,86 @@
+2025-12-11 11:26:08,094 - ERROR - Error 410 for Delhi. Attempt 1
+2025-12-11 11:26:10,757 - ERROR - Error 410 for Delhi. Attempt 2
+2025-12-11 11:26:13,648 - ERROR - Error 410 for Delhi. Attempt 3
+2025-12-11 11:26:15,653 - ERROR - Failed to fetch data for Delhi after 3 attempts.
+2025-12-11 11:26:15,656 - WARNING - No valid data to save for Delhi
+2025-12-11 11:26:17,464 - ERROR - Error 410 for Bengaluru. Attempt 1
+2025-12-11 11:26:21,122 - ERROR - Error 410 for Bengaluru. Attempt 2
+2025-12-11 11:26:24,344 - ERROR - Error 410 for Bengaluru. Attempt 3
+2025-12-11 11:26:26,347 - ERROR - Failed to fetch data for Bengaluru after 3 attempts.
+2025-12-11 11:26:26,347 - WARNING - No valid data to save for Bengaluru
+2025-12-11 11:26:27,454 - ERROR - Error 410 for Hyderabad. Attempt 1
+2025-12-11 11:27:09,544 - ERROR - Error 410 for Delhi. Attempt 1
+2025-12-11 11:27:13,547 - ERROR - Error 410 for Delhi. Attempt 2
+2025-12-11 11:27:16,066 - ERROR - Error 410 for Delhi. Attempt 3
+2025-12-11 11:27:18,067 - ERROR - Failed to fetch data for Delhi after 3 attempts.
+2025-12-11 11:27:18,067 - WARNING - No valid data to save for Delhi
+2025-12-11 11:27:19,485 - ERROR - Error 410 for Bengaluru. Attempt 1
+2025-12-11 11:27:23,578 - ERROR - Error 410 for Bengaluru. Attempt 2
+2025-12-11 11:27:26,928 - ERROR - Error 410 for Bengaluru. Attempt 3
+2025-12-11 11:27:28,930 - ERROR - Failed to fetch data for Bengaluru after 3 attempts.
+2025-12-11 11:27:28,931 - WARNING - No valid data to save for Bengaluru
+2025-12-11 11:27:31,054 - ERROR - Error 410 for Hyderabad. Attempt 1
+2025-12-11 11:27:35,560 - ERROR - Error 410 for Hyderabad. Attempt 2
+2025-12-11 11:27:38,638 - ERROR - Error 410 for Hyderabad. Attempt 3
+2025-12-11 11:27:40,641 - ERROR - Failed to fetch data for Hyderabad after 3 attempts.
+2025-12-11 11:27:40,641 - WARNING - No valid data to save for Hyderabad
+2025-12-11 11:27:42,304 - ERROR - Error 410 for Mumbai. Attempt 1
+2025-12-11 11:27:47,061 - ERROR - Error 410 for Mumbai. Attempt 2
+2025-12-11 11:27:50,298 - ERROR - Error 410 for Mumbai. Attempt 3
+2025-12-11 11:27:52,299 - ERROR - Failed to fetch data for Mumbai after 3 attempts.
+2025-12-11 11:27:52,299 - WARNING - No valid data to save for Mumbai
+2025-12-11 11:27:53,547 - ERROR - Error 410 for Kolkata. Attempt 1
+2025-12-11 11:27:56,854 - ERROR - Error 410 for Kolkata. Attempt 2
+2025-12-11 11:28:00,497 - ERROR - Error 410 for Kolkata. Attempt 3
+2025-12-11 11:28:02,502 - ERROR - Failed to fetch data for Kolkata after 3 attempts.
+2025-12-11 11:28:02,502 - WARNING - No valid data to save for Kolkata
+2025-12-11 11:28:26,148 - ERROR - Error 410 for Delhi. Attempt 1
+2025-12-11 11:28:30,314 - ERROR - Error 410 for Delhi. Attempt 2
+2025-12-11 11:28:33,716 - ERROR - Error 410 for Delhi. Attempt 3
+2025-12-11 11:28:35,722 - ERROR - Failed to fetch data for Delhi after 3 attempts.
+2025-12-11 11:28:35,724 - WARNING - No valid data to save for Delhi
+2025-12-11 11:28:38,847 - ERROR - Error 410 for Bengaluru. Attempt 1
+2025-12-11 11:28:45,728 - ERROR - Error 410 for Bengaluru. Attempt 2
+2025-12-11 11:28:49,744 - ERROR - Error 410 for Bengaluru. Attempt 3
+2025-12-11 11:28:51,745 - ERROR - Failed to fetch data for Bengaluru after 3 attempts.
+2025-12-11 11:28:51,745 - WARNING - No valid data to save for Bengaluru
+2025-12-11 11:28:53,737 - ERROR - Error 410 for Hyderabad. Attempt 1
+2025-12-11 11:28:57,050 - ERROR - Error 410 for Hyderabad. Attempt 2
+2025-12-11 11:29:01,664 - ERROR - Error 410 for Hyderabad. Attempt 3
+2025-12-11 11:29:03,665 - ERROR - Failed to fetch data for Hyderabad after 3 attempts.
+2025-12-11 11:29:03,667 - WARNING - No valid data to save for Hyderabad
+2025-12-11 11:29:05,438 - ERROR - Error 410 for Mumbai. Attempt 1
+2025-12-11 11:29:10,669 - ERROR - Error 410 for Mumbai. Attempt 2
+2025-12-11 11:29:14,886 - ERROR - Error 410 for Mumbai. Attempt 3
+2025-12-11 11:29:16,895 - ERROR - Failed to fetch data for Mumbai after 3 attempts.
+2025-12-11 11:29:16,896 - WARNING - No valid data to save for Mumbai
+2025-12-11 11:29:18,146 - ERROR - Error 410 for Kolkata. Attempt 1
+2025-12-11 11:29:21,706 - ERROR - Error 410 for Kolkata. Attempt 2
+2025-12-11 11:29:25,564 - ERROR - Error 410 for Kolkata. Attempt 3
+2025-12-11 11:29:27,568 - ERROR - Failed to fetch data for Kolkata after 3 attempts.
+2025-12-11 11:29:27,570 - WARNING - No valid data to save for Kolkata
+2025-12-11 11:32:33,944 - ERROR - Delhi - Status Code: 410 (Attempt 1)
+2025-12-11 11:32:36,915 - ERROR - Delhi - Status Code: 410 (Attempt 2)
+2025-12-11 11:32:40,144 - ERROR - Delhi - Status Code: 410 (Attempt 3)
+2025-12-11 11:32:42,151 - ERROR - Failed to fetch data for Delhi after 3 attempts.
+2025-12-11 11:32:42,154 - WARNING - No data saved for Delhi
+2025-12-11 11:32:42,764 - ERROR - Bengaluru - Status Code: 410 (Attempt 1)
+2025-12-11 11:32:45,814 - ERROR - Bengaluru - Status Code: 410 (Attempt 2)
+2025-12-11 11:32:49,484 - ERROR - Bengaluru - Status Code: 410 (Attempt 3)
+2025-12-11 11:32:51,490 - ERROR - Failed to fetch data for Bengaluru after 3 attempts.
+2025-12-11 11:32:51,494 - WARNING - No data saved for Bengaluru
+2025-12-11 11:32:52,927 - ERROR - Hyderabad - Status Code: 410 (Attempt 1)
+2025-12-11 11:32:56,394 - ERROR - Hyderabad - Status Code: 410 (Attempt 2)
+2025-12-11 11:32:59,394 - ERROR - Hyderabad - Status Code: 410 (Attempt 3)
+2025-12-11 11:33:01,398 - ERROR - Failed to fetch data for Hyderabad after 3 attempts.
+2025-12-11 11:33:01,398 - WARNING - No data saved for Hyderabad
+2025-12-11 11:33:02,904 - ERROR - Mumbai - Status Code: 410 (Attempt 1)
+2025-12-11 11:33:06,904 - ERROR - Mumbai - Status Code: 410 (Attempt 2)
+2025-12-11 11:33:10,374 - ERROR - Mumbai - Status Code: 410 (Attempt 3)
+2025-12-11 11:33:12,379 - ERROR - Failed to fetch data for Mumbai after 3 attempts.
+2025-12-11 11:33:12,382 - WARNING - No data saved for Mumbai
+2025-12-11 11:33:13,804 - ERROR - Kolkata - Status Code: 410 (Attempt 1)
+2025-12-11 11:33:17,164 - ERROR - Kolkata - Status Code: 410 (Attempt 2)
+2025-12-11 11:33:20,250 - ERROR - Kolkata - Status Code: 410 (Attempt 3)
+2025-12-11 11:33:22,252 - ERROR - Failed to fetch data for Kolkata after 3 attempts.
+2025-12-11 11:33:22,254 - WARNING - No data saved for Kolkata
